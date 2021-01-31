@@ -1,0 +1,56 @@
+body {
+    font-family: "Avenir";
+    font-size: 1rem;
+    background: white;
+}
+
+header {
+    background-color: #006298
+}
+
+.btn-primary {
+    background: #507C49;
+    border-color: #406C39;
+}
+
+
+
+.btn-primary:hover {
+    background: #608C59;
+    border-color: #406C39;
+}
+
+.navbar-expand-md .navbar-nav .nav-link   {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: #ffc600;
+
+
+}
+
+
+.content {
+    padding: 2rem 1.5rem;
+}
+
+
+.jumbotron {
+    padding: 1.5rem;
+   color:#FFFFFF;
+}
+
+.jumbotron-heading{
+ color:#7548C
+}
+.jumbotron img {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+
+.bikeimages {
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    max-width:100px;
+}
+
+
